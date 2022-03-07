@@ -1,0 +1,6 @@
+Faculty: Радиофизический
+Dean's Name: Демин В.В.
+Abbreviation: РФФ
+Faculty: Физический
+Dean's Name: Кузнецов В.М.
+Abbreviation: ФФ
